@@ -33,7 +33,7 @@
         <mxCell id="ZjJ1GrN28KD24BUfxD4o-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="ZjJ1GrN28KD24BUfxD4o-10" target="ZjJ1GrN28KD24BUfxD4o-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZjJ1GrN28KD24BUfxD4o-10" value="User/Pass&lt;div&gt;correctas&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="ZjJ1GrN28KD24BUfxD4o-10" value="User/Pass&lt;div&gt;correcto&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="385" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZjJ1GrN28KD24BUfxD4o-11" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
