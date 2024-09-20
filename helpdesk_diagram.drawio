@@ -195,20 +195,9 @@
         <mxCell id="ZjJ1GrN28KD24BUfxD4o-60" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="900" y="825" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gYFJ5APR-1_znRkhs3BU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gYFJ5APR-1_znRkhs3BU-1" target="ZjJ1GrN28KD24BUfxD4o-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gYFJ5APR-1_znRkhs3BU-1" value="Unidad de Auditoria" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="622" y="465" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gYFJ5APR-1_znRkhs3BU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZjJ1GrN28KD24BUfxD4o-47" target="gYFJ5APR-1_znRkhs3BU-1">
+        <mxCell id="gYFJ5APR-1_znRkhs3BU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZjJ1GrN28KD24BUfxD4o-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="658" />
-              <mxPoint x="660" y="630" />
-              <mxPoint x="602" y="630" />
-              <mxPoint x="602" y="488" />
-            </Array>
+            <mxPoint x="742" y="495" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
